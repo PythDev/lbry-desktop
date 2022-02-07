@@ -1,0 +1,1 @@
+Please update the font with the one in the repository of Inter, as the one used right now lacks fonts for Polish
